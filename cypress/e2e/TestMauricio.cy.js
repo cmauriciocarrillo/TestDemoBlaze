@@ -111,3 +111,4 @@ describe('Prueba automatizada Mauricio Carrillo', () => {
 		cy.get('#logInModal > .modal-dialog > .modal-content > .modal-footer > .btn-primary').click();
 	});
 });
+//---------
